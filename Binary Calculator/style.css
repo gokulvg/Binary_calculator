@@ -1,0 +1,21 @@
+#calculator {
+  background-color: aqua;
+  width: 30%;
+  padding: 1rem 0.75rem;
+  text-align: center;
+  margin: auto;
+}
+#display {
+  width: 80%;
+  background-color: bisque;
+  min-height: 30px;
+  border: 1px solid black;
+  margin: 0 auto 10px;
+  padding: 0.35rem 0.65rem;
+}
+#btns button {
+  width: 20%;
+  padding: 0.45rem 0.75rem;
+  cursor: pointer;
+  margin-bottom: 10px;
+}
